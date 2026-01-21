@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abin Hyanmikha</h1>
+<h1 align="center">Hi 👋, I'm  Abin Hyanmikha</h1>
 <h3 align="center">A passionate student interested in coding</h3>
 
 - 🔭 I’m currently working on [Gym-website](https://github.com/abinhyanmikha/Gym-website)
