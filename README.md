@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Abin Hyanmikha</h1>
-<h3 align="center">A passionate student interested in coding</h3>
+<h3 align="center">A passionate student interested in Data Science</h3>
 
 - 🔭 I’m currently working on [Gym-website](https://github.com/abinhyanmikha/Gym-website)
 - 🌱 I’m currently learning **Next.js, React**
