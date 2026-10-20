@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Abin Hyanmikha</h1>
 <h3 align="center">A passionate student interested in Data Science</h3>
 
-- 🔭 I’m currently working on [Gym-website](https://github.com/abinhyanmikha/Gym-website)
+- 🔭 I’m currently working on [Data-science project][(https://github.com/abinhyanmikha/Gym-website)](https://github.com/abinhyanmikha/Video-Game-Sales-Prediction-Using-Machine-Learning)
 - 🌱 I’m currently learning **Next.js, React**
 - 📫 How to reach me **abinsuwal650@gmail.com**
 - ⚡ Fun fact **I am Spiderman**
